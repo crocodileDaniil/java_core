@@ -1,4 +1,4 @@
-package main;
+package les001;
 
 public class Main {
 
